@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/E-Commerce-Application/static/css/main.073c9b0a.css",
-    "main.js": "/github.io/E-Commerce-Application/static/js/main.662cd93d.js",
-    "static/js/787.6bd56018.chunk.js": "/github.io/E-Commerce-Application/static/js/787.6bd56018.chunk.js",
-    "static/media/logo.svg": "/github.io/E-Commerce-Application/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/github.io/E-Commerce-Application/index.html",
-    "main.073c9b0a.css.map": "/github.io/E-Commerce-Application/static/css/main.073c9b0a.css.map",
-    "main.662cd93d.js.map": "/github.io/E-Commerce-Application/static/js/main.662cd93d.js.map",
-    "787.6bd56018.chunk.js.map": "/github.io/E-Commerce-Application/static/js/787.6bd56018.chunk.js.map"
+    "main.css": "/github.io/Ecommerce-Application/static/css/main.073c9b0a.css",
+    "main.js": "/github.io/Ecommerce-Application/static/js/main.71cc1e1b.js",
+    "static/js/787.6bd56018.chunk.js": "/github.io/Ecommerce-Application/static/js/787.6bd56018.chunk.js",
+    "static/media/logo.svg": "/github.io/Ecommerce-Application/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/Ecommerce-Application/index.html",
+    "main.073c9b0a.css.map": "/github.io/Ecommerce-Application/static/css/main.073c9b0a.css.map",
+    "main.71cc1e1b.js.map": "/github.io/Ecommerce-Application/static/js/main.71cc1e1b.js.map",
+    "787.6bd56018.chunk.js.map": "/github.io/Ecommerce-Application/static/js/787.6bd56018.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.662cd93d.js"
+    "static/js/main.71cc1e1b.js"
   ]
 }
